@@ -1,4 +1,4 @@
-### Hi there, I'm [Md. Irtiza Hossain!](https://mdirtizahossain.netlify.app) 👋
+### Hi there, I'm [Farhan Ishraq Fagun]👋
 
 - ✔ I’m currently learning everything 😢
 ---
