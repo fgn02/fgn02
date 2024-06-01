@@ -1,4 +1,4 @@
-### Hi there, I'm [Farhan Ishraq Fagun]👋
+### Hi there, I'm Farhan Ishraq Fagun👋
 
 - ✔ I’m currently learning everything 😢
 ---
@@ -13,7 +13,7 @@
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
+
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 [<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />][redux]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
@@ -23,10 +23,10 @@
 [<img align="left" alt="Mongoose" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" />][mongoose]
 [<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][firebase]
 [<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />][tensorflow]
-[<img align="left" alt="sharepoint" width="26px" src="https://avatars.githubusercontent.com/u/19156602?s=48&v=4" />][sharepoint]
-[<img align="left" alt="powerautomate" width="26px" height="22px" src="https://repository-images.githubusercontent.com/292601183/e4797e00-ff2d-11ea-9c66-f3070f04174e" />][powerautomate]
+
+
 <br />
-[<img align="left" alt="powerapps" width="26px" height="22px" src="https://yt3.googleusercontent.com/ytc/AIf8zZS-dJizg_O__3w-r0iqPGXzclwTBCjXLWp8hT0W=s900-c-k-c0x00ffffff-no-rj" />][powerapps]
+
 <br />
 <br />
 
