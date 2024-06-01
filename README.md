@@ -50,8 +50,8 @@
 [<img align="left" alt="https://mdirtizahossain.netlify.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="https://www.linkedin.com/in/md-irtiza-hossain/ | LinkedIn" width="22px" src="https://www.maryville.edu/wp-content/uploads/2015/11/Linkedin-logo-1-550x550-300x300.png" />][linkedin]
 
-[website]: https://mdirtizahossain.netlify.app/
-[linkedin]: https://www.linkedin.com/in/md-irtiza-hossain/
+
+[linkedin]: https://www.linkedin.com/in/farhan-ishraq-fagun-002459199
 [vscode]: https://code.visualstudio.com/
 [html5]: https://html.com/
 [css3]: https://developer.mozilla.org/en-US/docs/Web/CSS
