@@ -5,7 +5,6 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][cp]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
 
@@ -72,10 +71,6 @@
 [mongoose]: https://mongoosejs.com
 [python]: https://www.python.org
 [expressjs]: http://expressjs.com
-[cp]: https://www.cprogramming.com
 [tensorflow]: https://github.com/topics/tensorflow
 [php]: https://www.php.net
-[sharepoint]: https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration
-[powerautomate]: https://www.microsoft.com/en-us/power-platform/products/power-automate
-[powerapps]: https://www.microsoft.com/en-us/power-platform/products/power-apps
 [sql]:https://www.mysql.com/
