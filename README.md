@@ -36,17 +36,11 @@
 
 ![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fgn02&show_icons=true&theme=omni)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fgn02&layout=compact&theme=omni)
-
-
-
-
 \*NOTE: Top languages does not indicate my skill level, it's a github metric of which languages I have used the most for coding.
 <br/>
+<a href="https://github.com/fgn02">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fgn02&layout=compact&theme=omni)
 
-<a href="https://github.com/irtiza1999">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irtiza1999&layout=compact&theme=omni" />
-</a>
 
 ---
 
