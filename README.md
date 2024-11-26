@@ -34,6 +34,11 @@
 
 ### GitHub Stats
 
+![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fgn02&show_icons=true&theme=omni)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fgn02&layout=compact&theme=omni)
+
+
 
 
 \*NOTE: Top languages does not indicate my skill level, it's a github metric of which languages I have used the most for coding.
@@ -47,8 +52,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://mdirtizahossain.netlify.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="https://www.linkedin.com/in/md-irtiza-hossain/ | LinkedIn" width="22px" src="https://www.maryville.edu/wp-content/uploads/2015/11/Linkedin-logo-1-550x550-300x300.png" />][linkedin]
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="LinkedIn" width="22px" src="https://www.maryville.edu/wp-content/uploads/2015/11/Linkedin-logo-1-550x550-300x300.png" />][linkedin]
+
+[website]: https://fgn02.github.io/
+[linkedin]: https://www.linkedin.com/in/farhan-ishraq-fagun-002459199/
+
 
 
 [linkedin]: https://www.linkedin.com/in/farhan-ishraq-fagun-002459199
