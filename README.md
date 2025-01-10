@@ -45,10 +45,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="LinkedIn" width="22px" src="https://www.maryville.edu/wp-content/uploads/2015/11/Linkedin-logo-1-550x550-300x300.png" />][linkedin]
+[<img align="left" alt="Website" width="24px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="LinkedIn" width="24px" src="https://www.maryville.edu/wp-content/uploads/2015/11/Linkedin-logo-1-550x550-300x300.png" />][linkedin]
 
-[website]: https://fgn02.github.io/
+[website]: https://fgn02.vercel.app/
 [linkedin]: https://www.linkedin.com/in/farhan-ishraq-fagun-002459199/
 
 
